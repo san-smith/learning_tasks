@@ -1,0 +1,6 @@
+C:\Users\Марина\Desktop\Колледж\3 курс\ИСРПО\str\str\bin\Debug\str.exe.config
+C:\Users\Марина\Desktop\Колледж\3 курс\ИСРПО\str\str\bin\Debug\str.exe
+C:\Users\Марина\Desktop\Колледж\3 курс\ИСРПО\str\str\bin\Debug\str.pdb
+C:\Users\Марина\Desktop\Колледж\3 курс\ИСРПО\str\str\obj\Debug\str.csprojResolveAssemblyReference.cache
+C:\Users\Марина\Desktop\Колледж\3 курс\ИСРПО\str\str\obj\Debug\str.exe
+C:\Users\Марина\Desktop\Колледж\3 курс\ИСРПО\str\str\obj\Debug\str.pdb
